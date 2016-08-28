@@ -1,0 +1,13 @@
+Content\Images\Player1.xnb
+Content\Images\Player2.xnb
+Content\Fonts\Font.xnb
+Content\Sounds\Win.xnb
+Content\Sounds\MoveChip.xnb
+Content\Music\RelaxMusic.xnb
+Content\Music\RelaxMusic.wma
+Content\Images\PlayGround.xnb
+Content\Images\PlayGround2.xnb
+Content\Images\Background.xnb
+Content\Fonts\FontTitle.xnb
+Content\Fonts\FontButton.xnb
+Content\Fonts\FontButton2.xnb

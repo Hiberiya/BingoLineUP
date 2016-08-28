@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Images\Player1.xnb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Images\Player2.xnb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Images\PlayGround.xnb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Sounds\Win.xnb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\BingoLineUp.exe
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\BingoLineUp.pdb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\obj\x86\Release\BingoLineUp.exe
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\obj\x86\Release\BingoLineUp.pdb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Sounds\MoveChip.xnb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Music\RelaxMusic.xnb
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\bin\x86\Release\Content\Music\RelaxMusic.wma
+C:\Users\user\Desktop\BingoLightUp\BingoLineUp\BingoLineUp\BingoLineUp\obj\x86\Release\BingoLineUp.csprojResolveAssemblyReference.cache

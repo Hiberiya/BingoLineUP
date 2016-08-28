@@ -1,0 +1,8 @@
+Content\Images\Player1.xnb
+Content\Images\Player2.xnb
+Content\Images\PlayGround.xnb
+Content\Fonts\Font.xnb
+Content\Sounds\Win.xnb
+Content\Sounds\MoveChip.xnb
+Content\Music\RelaxMusic.xnb
+Content\Music\RelaxMusic.wma
